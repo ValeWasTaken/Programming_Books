@@ -1,0 +1,5 @@
+This file is meant to simply keep track of pages I may want to specifically go back to and read later for a reference.
+
+Chapter 0: None
+Chapter 1:
+  - Page 11 [%f, decimals, and other %<character> meanings.]
