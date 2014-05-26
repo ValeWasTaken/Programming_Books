@@ -18,3 +18,12 @@ main()
                 fahr = fahr + step;
         }
 }
+
+/* Notes:
+        - %4.0f says that a floating point number is to be printed in a space at
+          least four characters wide, with no digits after the decimal point.
+          
+        - %6.1f describes another number to occupy at least six spaces, 
+          with 1 digit after the decimal point.
+*/
+      
