@@ -3,3 +3,4 @@ This file is meant to simply keep track of pages I may want to specifically go b
 Chapter 0: None
 Chapter 1:
   - Page 11 [%f, decimals, and other %<character> meanings.]
+  - Page 14 [File copying, character counting, word counting, text manipulation, etc.]
