@@ -4,3 +4,7 @@ Chapter 0: None
 Chapter 1:
   - Page 11 [%f, decimals, and other %<character> meanings.]
   - Page 14 [File copying, character counting, word counting, text manipulation, etc.]
+
+
+Notes:
+- I skipped Execercise 1-9 because it was a question rather than a coding problem.
