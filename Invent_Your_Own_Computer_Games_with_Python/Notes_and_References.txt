@@ -1,0 +1,14 @@
+Hello, this is just a small text file for me to keep down any notes or reference pages for myself in the future.
+
+-- Please note, I am only going to be uploading my work from this book starting at page 86. --
+This is not because I haven't read the first 86 pages, I have. I just don't think they would
+contribute any value for anyone who would be reading this (they are all extremely basic programs)
+
+Oh, and before I get started: If you're interested in this book or any other's by Al Sweigart:
+Please visit his website at: http://inventwithpython.com
+All his books are online for free or are available on Amazon.com in physical form for very cheap 
+and often times with proceeds being donated to good causes.
+
+
+References:
+  - Page [XXX] ~ Resource
