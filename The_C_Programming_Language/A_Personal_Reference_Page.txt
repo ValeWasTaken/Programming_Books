@@ -1,5 +1,10 @@
 This file is meant to simply keep track of pages I may want to specifically go back to and read later for a reference.
 
+~ Please note: 
+This is the 1st edition of The C Programming Language!
+If you are looking at exercises, it is strongly recommended you look specifically for the 2nd edition solutions.
+~
+
 Chapter 0: None
 Chapter 1:
   - Page 11 [%f, decimals, and other %<character> meanings.]
