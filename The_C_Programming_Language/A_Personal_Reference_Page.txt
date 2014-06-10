@@ -12,4 +12,5 @@ Chapter 1:
 
 
 Notes:
-- I skipped Execercise 1-9 because it was a question rather than a coding problem.
+- I skipped Exercise 1-9 because it was a question rather than a coding problem.
+- I am skipping Exercise 1-12 with the intent on returning and solving it vertically.
