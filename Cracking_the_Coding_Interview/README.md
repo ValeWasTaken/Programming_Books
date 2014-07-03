@@ -3,18 +3,33 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 
 <h2>Table of contents:</h2>
-- Chapter 1: 
-- Chapter 2:
-- Chapter 3:
-- Chapter
-- Chapter
-- Chapter
-- Chapter
-- Chapter
-- Chapter
-- Chapter
-- Chapter
+- Interview Questions
+  - Data Structures 
+    - Chapter 1: Arrays & Strings [1.1 - 1.8]
+    - Chapter 2: Linked Lists [2.1 - 2.7]
+    - Chapter 3: Stacks and Queues [3.1 - 3.7]
+    - Chapter 4: Trees and Graphs [4.1 - 4.9]
+  - Concepts and Algorithms
+    - Chapter 5: Bit Manipulation [5.1 - 5.8]
+    - Chapter 6: Brain Teasers [6.1 - 6.6]
+    - Chapter 7: Mathematics and Probability [7.1 - 7.7]
+    - Chapter 8: Object-Oriented Design [8.1 - 8.10]
+    - Chapter 9: Recursion and Dynamic Programming [9.1 - 9.11]
+    - Chapter 10: Scalability and Memory Limits [10.1 - 10.7]
+    - Chapter 11: Sorting and Searching [11.1 - 11.8]
+    - Chapter 12: Testing [12.1 - 12.6]
+  - Knowledge Based
+    - Chapter 13: C and C++ [13.1 - 13.10]
+    - Chapter 14: Java [14.1 - 14.6]
+    - Chapter 15: Databases [15.1 - 15.7]
+    - Chapter 16: Threads and Locks [16.1 - 16.6]
+  - Additional Review Problems
+    - Chapter 17: Misc. [17.1 - 17.14]
+    - Chapter 18: Misc. [18.1 - 18.13]
 
+- Solutions completed
+  - Python
+    - 1.4, 6.5
 
 
 
