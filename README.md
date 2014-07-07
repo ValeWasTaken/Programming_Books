@@ -1,13 +1,17 @@
 Programming_Books
 =================
 
-This is a repository of some of the programming books I have read and the programs I have made while following their examples. Please feel free to ask me any questions. If you see a book on here that looks interesting, please go buy a copy and check it out; I only upload examples from books I've enjoyed or learned a lot from.
+This is a repository of some of the programming books I am currently reading and the programs I have made while following their examples, exercises, and so forth.
+
+Please feel free to ask me any questions. If you see a book on here that looks interesting, please go buy a copy and check it out; I only upload examples from books I've enjoyed or learned a lot from.
 
 
 <h3>Table of contents:</h3>
-- <strong>The C Programming Language (1st edition)</strong> ~ by Brian W. Kernighan & Dennis M.Ritchie (<strong>In progress</strong>)
-- <strong>Invent Your Own Computer Games with Python (2nd edition)</strong> ~ by Al Sweigart (<strong>In progress</strong>)
 - <strong>Cracking the Coding Interview (5th Edition)</strong> ~ by Gayle Laakmann McDowell (<strong>In progress</strong>)
-- <strong>Hacking Secret Ciphers with Python</strong> ~ by Al Sweigart (In queue to be added)
-- <strong>Making Games with Python & Pygame</strong> ~ by Al Sweigart (In queue to be added)
+- <strong>Head First Java (2nd Edition)</strong> ~ by Kathy Sierra & Bert Bates (<strong>In progress</strong>)
+- <strong>Invent Your Own Computer Games with Python (2nd edition)</strong> ~ by Al Sweigart (<strong>In progress</strong>)
+- <strong>The C Programming Language (1st edition)</strong> ~ by Brian W. Kernighan & Dennis M.Ritchie (<strong>In progress</strong>)
 <strong><End of table of contents until more programs are uploaded to this repository.></strong>
+
+
+Please note: These repositories may not contain all of the exercises, examples, and so forth in the book. I skip some that are too easy / boring sometimes, other times I may skip one because it's too difficult or any other reason. Whatever I do post, however, I fully understand. So if you have any questions please feel free to contact me!
