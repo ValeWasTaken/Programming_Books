@@ -18,8 +18,6 @@ public class beerSong {
 		if(beerNum == 0)
 		{
 			System.out.println("No more bottles of beer on the wall");
-		}
-		else 
-		{System.out.println("Error.");}
+		} else {System.out.println("Error.");}
 	}
 }
