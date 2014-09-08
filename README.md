@@ -10,6 +10,7 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 - <strong>Cracking the Coding Interview (5th Edition)</strong> ~ by Gayle Laakmann McDowell (<strong>In progress</strong>)
 - <strong>Head First Java (2nd Edition)</strong> ~ by Kathy Sierra & Bert Bates (<strong>In progress</strong>)
 - <strong>Invent Your Own Computer Games with Python (2nd edition)</strong> ~ by Al Sweigart (<strong>In progress</strong>)
+- <strong> Writing Idiomatic Python 2.7.8 ~ by Jeff Knupp </strong> (Note: I am only picking out my favorite points to keep as references.) (<strong>In Progress</strong>)
 - <strong>The C Programming Language (1st edition)</strong> ~ by Brian W. Kernighan & Dennis M.Ritchie (<strong>In progress</strong>)
 <strong><End of table of contents until more programs are uploaded to this repository.></strong>
 
