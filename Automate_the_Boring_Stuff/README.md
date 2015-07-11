@@ -28,6 +28,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 16: Sending Email and Text Messages
   - Chapter 17: Manipulating Images
   - Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
+    - Looking Busy
 
 <h3>Practice Problem Descriptions: </h3>
 
