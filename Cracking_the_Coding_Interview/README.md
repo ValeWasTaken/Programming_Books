@@ -29,12 +29,16 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 - Solutions completed
   - Python
-    - 1.4, 6.5
+    - 1.1, 1.4, 6.5
 
 
 
 <h3>Problem Descriptions: </h3>
 
+<strong> Interview Question 1.1 </strong>
+<BR>
+Implement an algorithm to determine if a string has all unique characters.
+<BR>
 
 <strong> Interview Question 1.4 </strong>
 <BR>
