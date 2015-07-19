@@ -29,7 +29,7 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 - Solutions completed
   - Python
-    - 1.1, 1.4, 6.5
+    - 1.1, 1.4, 6.5, 7.4
 
 
 
@@ -50,4 +50,9 @@ Create a program that replaces spaces in a message with "%20".
 Assume you have 2 eggs and a 100 story building.  
 If an egg is dropped from the Nth floor or higher, it will break.
 Create a program that will find the Nth floor in the fewest amount of guesses.
+<BR>
+
+<strong> Interview Question 7.4 </strong>
+<BR>
+Write methods to implement the subtract, multiply, and divide  operations for integers using only the add operator.
 <BR>
