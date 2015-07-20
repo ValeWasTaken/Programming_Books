@@ -29,7 +29,7 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 - Solutions completed
   - Python
-    - 1.1, 1.4, 6.5, 7.4
+    - 1.1, 1.4, 6.5, 7.4, 11.5
 
 
 
@@ -55,4 +55,10 @@ Create a program that will find the Nth floor in the fewest amount of guesses.
 <strong> Interview Question 7.4 </strong>
 <BR>
 Write methods to implement the subtract, multiply, and divide  operations for integers using only the add operator.
+<BR>
+
+<strong> Interview Question 11.5 </strong>
+<BR>
+Given an assorted array of strings which is intersperced with empty strings, 
+write a method to find the location of a given string.
 <BR>
