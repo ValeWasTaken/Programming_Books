@@ -10,8 +10,12 @@ def subtract(number1, number2):
     
 def multiply(number1, number2):
     answer = 0
-    for x in range(number2):
-        answer += number1
+    if number2 > 0:
+        for x in range(number2):
+            answer += number1
+    else:
+        for x in range(~number2+1):
+            answer += ~number1+1
     print("{0} * {1} = {2}".format(number1,number2,answer))
     
 def divide(number1, number2):
