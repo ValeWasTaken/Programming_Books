@@ -5,7 +5,7 @@ def subtract(number1, number2):
     if number2 > 0:
         answer = number1 + (~number2 + 1)
     else:
-        answer = number1 + number2
+        answer = number1 + (~~number2)
     print("{0} - {1} = {2}".format(number1,number2,answer))
     
 def multiply(number1, number2):
