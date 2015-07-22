@@ -29,7 +29,7 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 - Solutions completed
   - Python
-    - 1.1, 1.4, 6.5, 7.4, 11.5
+    - 1.1, 1.3, 1.4, 6.5, 7.4, 11.5
 
 
 
@@ -38,6 +38,11 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 <strong> Interview Question 1.1 </strong>
 <BR>
 Implement an algorithm to determine if a string has all unique characters.
+<BR>
+
+<strong> Interview Question 1.3 </strong>
+<BR>
+Given two strings, write a method to decide if one is a permutation of the other.
 <BR>
 
 <strong> Interview Question 1.4 </strong>
