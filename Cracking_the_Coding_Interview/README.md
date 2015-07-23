@@ -29,7 +29,7 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 
 - Solutions completed
   - Python
-    - 1.1, 1.3, 1.4, 6.5, 7.4, 11.5
+    - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-1.py">1.1</a>, <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-3.py">1.3</a>, <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-4.py">1.4</a>, <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_06-5.py">6.5</a>, <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_07-4.py">7.4</a>, <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_11-5.py">11.5</a>
 
 
 
