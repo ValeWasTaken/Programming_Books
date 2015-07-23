@@ -27,7 +27,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 15: Time, Scheduling Tasks, and Launching Programs
   - Chapter 16: Sending Email and Text Messages
   - Chapter 17: Manipulating Images
-  - Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
+  - [**In-Progress**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
     - Looking Busy
 
 <h3>Practice Problem Descriptions: </h3>
@@ -48,4 +48,9 @@ Write a function that takes a list value as an argument and returns a string wit
 <strong>Chapter 4 (2 of 2): Character Picture Grid</strong>
 <BR>
 <img src="http://i.imgur.com/m7Gju39.png"></img>
+<BR>
+
+<strong>Chapter 18 (1 of 3): Looking Busy </strong>
+<BR>
+Write a script to nudge your mouse cursor slightly every ten seconds to prevent the computer from going idle.
 <BR>
