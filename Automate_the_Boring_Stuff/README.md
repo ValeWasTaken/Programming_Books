@@ -14,6 +14,9 @@ If you enjoy the book please buy a copy and support the author!
       - Comma Code
       - Picture Grid
   - [**In-Progress**] Chapter 5: Dictionaries and Structuring Data
+    - Practice Problems
+      - Fantasy Game Inventory
+      - List to Dictionary Function for Fantasy Game Inventory
   - Chapter 6: Manipulating Strings
     - Practice Problems
       - Table Printer
@@ -29,7 +32,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 15: Time, Scheduling Tasks, and Launching Programs
   - Chapter 16: Sending Email and Text Messages
   - Chapter 17: Manipulating Images
-  - [**In-Progress**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
+  - [**Complete**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
     - Looking Busy
 
 <h3>Practice Problem Descriptions: </h3>
