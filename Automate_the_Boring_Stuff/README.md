@@ -15,6 +15,8 @@ If you enjoy the book please buy a copy and support the author!
       - Picture Grid
   - [**In-Progress**] Chapter 5: Dictionaries and Structuring Data
   - Chapter 6: Manipulating Strings
+    - Practice Problems
+      - Table Printer
 - Part 2: Automating Tasks
   - Chapter 7: Pattern Matching with Regular Expressions
   - Chapter 8: Reading and Writing Files
@@ -48,6 +50,11 @@ Write a function that takes a list value as an argument and returns a string wit
 <strong>Chapter 4 (2 of 2): Character Picture Grid</strong>
 <BR>
 <img src="http://i.imgur.com/m7Gju39.png"></img>
+<BR>
+
+<strong>Chapter 6 (1 of 1): Table Printer</strong>
+<BR>
+Write a function that takes a list of lists of strings and displays it in a well-organized table with each column right-justified. 
 <BR>
 
 <strong>Chapter 18 (1 of 3): Looking Busy </strong>
