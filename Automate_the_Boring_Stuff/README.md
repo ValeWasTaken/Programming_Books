@@ -32,8 +32,11 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 15: Time, Scheduling Tasks, and Launching Programs
   - Chapter 16: Sending Email and Text Messages
   - Chapter 17: Manipulating Images
-  - [**Complete**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
-    - Looking Busy
+  - [**In-Progress**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
+    - Practice Problems    
+      - Looking Busy
+      - Instant Messenger Bot
+      - Game-Playing Bot Tutorial
 
 <h3>Practice Problem Descriptions: </h3>
 
