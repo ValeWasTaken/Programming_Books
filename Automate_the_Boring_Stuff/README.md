@@ -13,7 +13,7 @@ If you enjoy the book please buy a copy and support the author!
     - Practice Problems
       - Comma Code
       - Picture Grid
-  - [**In-Progress**] Chapter 5: Dictionaries and Structuring Data
+  - [**Complete**] Chapter 5: Dictionaries and Structuring Data
     - Practice Problems
       - Fantasy Game Inventory
       - List to Dictionary Function for Fantasy Game Inventory
@@ -56,6 +56,16 @@ Write a function that takes a list value as an argument and returns a string wit
 <strong>Chapter 4 (2 of 2): Character Picture Grid</strong>
 <BR>
 <img src="http://i.imgur.com/m7Gju39.png"></img>
+<BR>
+
+<strong>Chapter 5 (1 of 2): Character Picture Grid</strong>
+<BR>
+<img src="http://i.imgur.com/o9rPwkp.png"></img>
+<BR>
+
+<strong>Chapter 5 (2 of 2): Character Picture Grid</strong>
+<BR>
+Write a function where the inventory parameters are a dictionary representing the player’s inventory and a list containing "loot". The function should return a dictionary that represents the updated inventory.
 <BR>
 
 <strong>Chapter 6 (1 of 1): Table Printer</strong>
