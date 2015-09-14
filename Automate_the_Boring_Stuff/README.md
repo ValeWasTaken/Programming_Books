@@ -17,7 +17,7 @@ If you enjoy the book please buy a copy and support the author!
     - Practice Problems
       - Fantasy Game Inventory
       - List to Dictionary Function for Fantasy Game Inventory
-  - Chapter 6: Manipulating Strings
+  - [**Work-in-progress**] Chapter 6: Manipulating Strings
     - Practice Problems
       - Table Printer
 - Part 2: Automating Tasks
@@ -32,7 +32,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 15: Time, Scheduling Tasks, and Launching Programs
   - Chapter 16: Sending Email and Text Messages
   - Chapter 17: Manipulating Images
-  - [**In-Progress**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
+  - [**On-Hold**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
     - Practice Problems    
       - Looking Busy
       - Instant Messenger Bot
