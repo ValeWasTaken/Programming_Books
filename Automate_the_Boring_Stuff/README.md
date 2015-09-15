@@ -41,45 +41,34 @@ If you enjoy the book please buy a copy and support the author!
 <h3>Practice Problem Descriptions: </h3>
 
 
-<strong> Chapter 3 (1 of 1): The Collatz Sequence </strong>
+<strong> Chapter 3 (1 of 1): [The Collatz Sequence](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_003/Practice_Problems/The_Collatz_Sequence.py) </strong>
 <BR>
 Write a function named collatz() that has one parameter named number. If number is even, then collatz() should print number // 2 and return this value. If number is odd, then collatz() should print and return 3 * number + 1.
 
 Then write a program that lets the user type in an integer and that keeps calling collatz() on that number until the function returns the value 1.
 <BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_003/Practice_Problems/The_Collatz_Sequence.py)
-<BR>
 
 
-<strong>Chapter 4 (1 of 2): Comma Code</strong>
+<strong>Chapter 4 (1 of 2): [Comma Code](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Comma_Code.py)</strong>
 <BR>
 Write a function that takes a list value as an argument and returns a string with all the items separated by a comma and a space, with and inserted before the last item. 
 <BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Comma_Code.py)
-<BR>
 
-
-<strong>Chapter 4 (2 of 2): Character Picture Grid</strong>
+<strong>Chapter 4 (2 of 2): [Character Picture Grid](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Picture_Grid.py)</strong>
 <BR>
 <img src="http://i.imgur.com/m7Gju39.png"></img>
 <BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Picture_Grid.py)
-<BR>
 
 
-<strong>Chapter 5 (1 of 2): Character Picture Grid</strong>
+<strong>Chapter 5 (1 of 2): [Character Picture Grid](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/Fantasy_Game_Inventory.py)</strong>
 <BR>
 <img src="http://i.imgur.com/o9rPwkp.png"></img>
 <BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/Fantasy_Game_Inventory.py)
-<BR>
 
 
-<strong>Chapter 5 (2 of 2): Character Picture Grid</strong>
+<strong>Chapter 5 (2 of 2): [Character Picture Grid](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/List_to_Dictionary_Function.py)</strong>
 <BR>
 Write a function where the inventory parameters are a dictionary representing the player’s inventory and a list containing "loot". The function should return a dictionary that represents the updated inventory.
-<BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/List_to_Dictionary_Function.py)
 <BR>
 
 
@@ -89,9 +78,7 @@ Write a function that takes a list of lists of strings and displays it in a well
 <BR>
 
 
-<strong>Chapter 18 (1 of 3): Looking Busy </strong>
+<strong>Chapter 18 (1 of 3): [Looking Busy](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py) </strong>
 <BR>
 Write a script to nudge your mouse cursor slightly every ten seconds to prevent the computer from going idle.
-<BR>
-[Solution](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py)
 <BR>
