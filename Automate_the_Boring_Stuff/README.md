@@ -17,7 +17,7 @@ If you enjoy the book please buy a copy and support the author!
     - Practice Problems
       - Fantasy Game Inventory
       - List to Dictionary Function for Fantasy Game Inventory
-  - [**Work-in-progress**] Chapter 6: Manipulating Strings
+  - [**On-Hold**] Chapter 6: Manipulating Strings
     - Practice Problems
       - Table Printer
 - Part 2: Automating Tasks
