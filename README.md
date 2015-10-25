@@ -7,7 +7,7 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 
 
 <h3>Table of contents:</h3>
-- <strong>Automate the Boring Stuff (1st edition)</strong> ~ by Al Sweigart (<strong>On Hold</strong>)
+- <strong>Automate the Boring Stuff (1st edition)</strong> ~ by Al Sweigart (<strong>In progress</strong>)
 - <strong>Cracking the Coding Interview (5th Edition)</strong> ~ by Gayle Laakmann McDowell (<strong>In progress</strong>)
 - <strong>Head First Java (2nd Edition)</strong> ~ by Kathy Sierra & Bert Bates (<strong>On hold</strong>)
 - <strong>Invent Your Own Computer Games with Python (2nd edition)</strong> ~ by Al Sweigart (<strong>On hold</strong>)
