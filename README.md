@@ -11,7 +11,7 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 - <strong>Cracking the Coding Interview (5th Edition)</strong> ~ by Gayle Laakmann McDowell (<strong>In progress</strong>)
 - <strong>Head First Java (2nd Edition)</strong> ~ by Kathy Sierra & Bert Bates (<strong>On hold</strong>)
 - <strong>Invent Your Own Computer Games with Python (2nd edition)</strong> ~ by Al Sweigart (<strong>On hold</strong>)
-- <strong>Mining the Social Web (2nd edition)</strong> ~ by Matthew A. Russell (<strong>In Progress</strong>)
+- <strong>Mining the Social Web (2nd edition)</strong> ~ by Matthew A. Russell (<strong>On Hold</strong>)
 - <strong>Writing Idiomatic Python 2.7.8</strong> ~ by Jeff Knupp (<strong>Finished</strong>)
   - Note: I am only picking out my favorite points to keep as references.
   - Note: Content is linked in a different repository here: https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Idiomatic_Python2.7_References.py
