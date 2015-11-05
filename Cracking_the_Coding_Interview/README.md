@@ -35,21 +35,21 @@ Some solutions are too difficult for me at the moment and others I'm not interes
 <BR>
 Implement an algorithm to determine if a string has all unique characters.
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-1.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-1.py">Python 3.4 Solution</a>
 <BR>
 
 <strong> Interview Question 1.3 </strong>
 <BR>
 Given two strings, write a method to decide if one is a permutation of the other.
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-3.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-3.py">Python 3.4 Solution</a>
 <BR>
 
 <strong> Interview Question 1.4 </strong>
 <BR>
 Create a program that replaces spaces in a message with "%20".
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-4.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_01-4.py">Python 3.4 Solution</a>
 <BR>
 
 <strong> Interview Question 6.5 </strong>
@@ -58,14 +58,14 @@ Assume you have 2 eggs and a 100 story building.
 If an egg is dropped from the Nth floor or higher, it will break.
 Create a program that will find the Nth floor in the fewest amount of guesses.
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_06-5.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_06-5.py">Python 3.4 Solution</a>
 <BR>
 
 <strong> Interview Question 7.4 </strong>
 <BR>
 Write methods to implement the subtract, multiply, and divide  operations for integers using only the add operator.
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_07-4.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_07-4.py">Python 3.4 Solution</a>
 <BR>
 
 <strong> Interview Question 11.5 </strong>
@@ -73,5 +73,5 @@ Write methods to implement the subtract, multiply, and divide  operations for in
 Given an assorted array of strings which is intersperced with empty strings, 
 write a method to find the location of a given string.
 <BR>
-<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_11-5.py">Python Solution</a>
+<a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Cracking_the_Coding_Interview/Python/Exercise_11-5.py">Python 3.4 Solution</a>
 <BR>
