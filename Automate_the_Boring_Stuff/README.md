@@ -19,7 +19,7 @@ If you enjoy the book please buy a copy and support the author!
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/List_to_Dictionary_Function.py">List to Dictionary Function for Fantasy Game Inventory</a>
   - [**Complete**] Chapter 6: Manipulating Strings
     - Practice Problems
-      - Table Printer
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_006/Practice_Problems/Table_Printer.py">Table Printer</a>
 - Part 2: Automating Tasks
   - Chapter 7: Pattern Matching with Regular Expressions
   - Chapter 8: Reading and Writing Files
@@ -72,7 +72,7 @@ Write a function where the inventory parameters are a dictionary representing th
 <BR>
 
 
-<strong>Chapter 6 (1 of 1): Table Printer</strong>
+<strong>Chapter 6 (1 of 1): <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_006/Practice_Problems/Table_Printer.py">Table Printer</a></strong>
 <BR>
 Write a function that takes a list of lists of strings and displays it in a well-organized table with each column right-justified. 
 <BR>
