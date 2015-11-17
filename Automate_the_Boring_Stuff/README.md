@@ -8,15 +8,15 @@ If you enjoy the book please buy a copy and support the author!
   - [**Complete**] Chapter 2: Flow Control
   - [**Complete**] Chapter 3: Functions
     - Practice Problems
-      - The Collatz Sequence
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_003/Practice_Problems/The_Collatz_Sequence.py">The Collatz Sequence</a>
   - [**Complete**] Chapter 4: Lists
     - Practice Problems
-      - Comma Code
-      - Picture Grid
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Comma_Code.py">Comma Code</a>
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_004/Practice_Problems/Picture_Grid.py">Picture Grid</a>
   - [**Complete**] Chapter 5: Dictionaries and Structuring Data
     - Practice Problems
-      - Fantasy Game Inventory
-      - List to Dictionary Function for Fantasy Game Inventory
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/Fantasy_Game_Inventory.py">Fantasy Game Inventory</a>
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_005/Practice_Problems/List_to_Dictionary_Function.py">List to Dictionary Function for Fantasy Game Inventory</a>
   - [**Complete**] Chapter 6: Manipulating Strings
     - Practice Problems
       - Table Printer
@@ -34,7 +34,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 17: Manipulating Images
   - [**On-Hold**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
     - Practice Problems    
-      - Looking Busy
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py">Looking Busy</a>
       - Instant Messenger Bot
       - Game-Playing Bot Tutorial
 
