@@ -22,6 +22,9 @@ If you enjoy the book please buy a copy and support the author!
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_006/Practice_Problems/Table_Printer.py">Table Printer</a>
 - Part 2: Automating Tasks
   - Chapter 7: Pattern Matching with Regular Expressions
+    - Practice Problems
+      - <a href="">Strong Password Protection</a>
+      - <a href="">Regex Version of strip()</a>
   - Chapter 8: Reading and Writing Files
   - Chapter 9: Organizing Files
   - Chapter 10: Debugging
@@ -77,6 +80,17 @@ Write a function where the inventory parameters are a dictionary representing th
 Write a function that takes a list of lists of strings and displays it in a well-organized table with each column right-justified. 
 <BR>
 
+
+<strong>Chapter 7 (1 of 2): <a href="">Strong Password Detection</a></strong>
+<BR>
+Write a function that uses regular expressions to make sure the password string it is passed is strong. A strong password is defined as one that is at least eight characters long, contains both uppercase and lowercase characters, and has at least one digit.
+<BR>
+
+
+<strong>Chapter 7 (2 of 2): <a href="">Regex Version of strip()</a></strong>
+<BR>
+Write a function that takes a string and does the same thing as the strip() string method. If no other arguments are passed other than the string to strip, then whitespace characters will be removed from the beginning and end of the string. Otherwise, the characters specified in the second argument to the function will be removed from the string.
+<BR>
 
 <strong>Chapter 18 (1 of 3): [Looking Busy](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py) </strong>
 <BR>
