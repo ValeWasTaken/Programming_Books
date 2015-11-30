@@ -21,7 +21,7 @@ If you enjoy the book please buy a copy and support the author!
     - Practice Problems
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_006/Practice_Problems/Table_Printer.py">Table Printer</a>
 - Part 2: Automating Tasks
-  - Chapter 7: Pattern Matching with Regular Expressions
+  - [**In-Progress**] Chapter 7: Pattern Matching with Regular Expressions
     - Practice Problems
       - <a href="">Strong Password Protection</a>
       - <a href="">Regex Version of strip()</a>
