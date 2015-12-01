@@ -23,7 +23,7 @@ If you enjoy the book please buy a copy and support the author!
 - Part 2: Automating Tasks
   - [**In-Progress**] Chapter 7: Pattern Matching with Regular Expressions
     - Practice Problems
-      - <a href="">Strong Password Protection</a>
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Strong_Password_Detection.py">Strong Password Protection</a>
       - <a href="">Regex Version of strip()</a>
   - Chapter 8: Reading and Writing Files
   - Chapter 9: Organizing Files
@@ -81,7 +81,7 @@ Write a function that takes a list of lists of strings and displays it in a well
 <BR>
 
 
-<strong>Chapter 7 (1 of 2): <a href="">Strong Password Detection</a></strong>
+<strong>Chapter 7 (1 of 2): <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Strong_Password_Detection.py">Strong Password Detection</a></strong>
 <BR>
 Write a function that uses regular expressions to make sure the password string it is passed is strong. A strong password is defined as one that is at least eight characters long, contains both uppercase and lowercase characters, and has at least one digit.
 <BR>
