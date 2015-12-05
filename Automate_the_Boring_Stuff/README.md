@@ -27,18 +27,53 @@ If you enjoy the book please buy a copy and support the author!
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Regex_Version_of_Strip().py">Regex Version of strip()</a>
   - [**In-Progress**] Chapter 8: Reading and Writing Files
     - Practice Problems
-      - <a href="">Extending the Multiclipboard</a>
+      - Extending the Multiclipboard
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/Mab_Libs.py">Mad Libs</a>
-      - <a href="">Regex Search</a>
+      - Regex Search
   - Chapter 9: Organizing Files
+    - Practice Problems
+      - Selective Copy
+      - Deleting Unneeded Files
+      - Filling in the Gaps
   - Chapter 10: Debugging
+    - Practice Problems
+      - Debugging Coin Toss
   - Chapter 11: Web Scraping
+    - Practice Problems
+      - Command Line Emailer
+      - Image Site Downloader
+      - 2048
+      - Link Verification
   - Chapter 12: Working with Excel Spreadsheets
+    - Practice Problems
+      - Multiplication Table Maker
+      - Blank Row Inserter
+      - Spreadsheet Cell Inverter
+      - Text Files to Spreadsheet
+      - Spreadsheet to Text Files
   - Chapter 13: Working with PDF and Word Documents
+    - Practice Problems
+      - PDF Paranoia
+      - Custom Invitations as Word Documents
+      - Brute-Force PDF Password Breaker
   - Chapter 14: Working with CSV Files and JSON Data
+    - Practice Problems
+      - Excel-to-CSV Converter
   - Chapter 15: Time, Scheduling Tasks, and Launching Programs
+    - Practice Problems
+      - Prettified Stopwatch
+      - Scheduled Web Comic Downloader
   - Chapter 16: Sending Email and Text Messages
+    - Practice Problems
+      - Random Chore Assignment Emailer
+      - Umbrella Reminder
+      - Auto Unsubscriber
+      - Controlling Your Computer Through Email
   - Chapter 17: Manipulating Images
+    - Practice Problems
+      - Extending and Fixing the Chapter Project Programs
+      - Identifying Photo Folders on the Hard Drive
+      - Custom Seating Cards
   - [**On-Hold**] Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
     - Practice Problems    
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py">Looking Busy</a>
