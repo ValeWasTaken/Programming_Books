@@ -38,7 +38,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 10: Debugging
     - Practice Problems
       - Debugging Coin Toss
-  - Chapter 11: Web Scraping
+  - [**In-Progress**] Chapter 11: Web Scraping
     - Practice Problems
       - Command Line Emailer
       - Image Site Downloader
