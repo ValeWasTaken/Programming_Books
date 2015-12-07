@@ -145,9 +145,34 @@ appears in the text file.
 <BR>
 
 
-<strong>Chapter 8 (3 of 3): <a href="">Regex Search</a></strong>
+<strong>Chapter 8 (3 of 3): <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/Mab_Libs.py">Regex Search</a></strong>
 <BR>
 Write a program that opens all .txt files in a folder and searches for any line that matches a user-supplied regular expression. The results should be printed to the screen.
+<BR>
+
+
+<strong>Chapter 11 (1 of 4): <a href="">Command Line Emailer</a></strong>
+<BR>
+Write a program that takes an email address and string of text on the command line and then, using Selenium, logs into your email account and sends an email of the string to the provided address.
+<BR>
+
+
+<strong>Chapter 11 (2 of 4): <a href="">Image Site Downloader</a></strong>
+<BR>
+Write a program that goes to a photo-sharing site like Flickr or Imgur, searches for a category of photos, and then downloads all the resulting images. You could write a program that works with any photo site that has a search feature.
+<BR>
+
+
+
+<strong>Chapter 11 (3 of 4): <a href="">2048</a></strong>
+<BR>
+2048 is a simple game where you combine tiles by sliding them up, down, left, or right with the arrow keys. You can actually get a fairly high score by repeatedly sliding in an up, right, down, and left pattern over and over again. Write a program that will open the game at https://gabrielecirulli.github.io/2048/ and keep sending up, right, down, and left keystrokes to automatically play the game.
+<BR>
+
+
+<strong>Chapter 11 (4 of 4): <a href="">Link Verification</a></strong>
+<BR>
+Write a program that, given the URL of a web page, will attempt to download every linked page on the page. The program should flag any pages that have a 404 “Not Found” status code and print them out as broken links.
 <BR>
 
 
