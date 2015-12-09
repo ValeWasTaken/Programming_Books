@@ -2,7 +2,7 @@ Automate the Boring Stuff by Al Sweigart is available to read for free online at
 If you enjoy the book please buy a copy and support the author!
 
 <h2>Table of contents:</h2>
-- Part 1: The Basics of Python Programming
+- [**Complete**] Part 1: The Basics of Python Programming
   - [**Complete**] Chapter 0: Introduction 
   - [**Complete**] Chapter 1: Python Basics
   - [**Complete**] Chapter 2: Flow Control
@@ -20,7 +20,7 @@ If you enjoy the book please buy a copy and support the author!
   - [**Complete**] Chapter 6: Manipulating Strings
     - Practice Problems
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_006/Practice_Problems/Table_Printer.py">Table Printer</a>
-- Part 2: Automating Tasks
+- [**In-Progress**] Part 2: Automating Tasks
   - [**Complete**] Chapter 7: Pattern Matching with Regular Expressions
     - Practice Problems
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Strong_Password_Detection.py">Strong Password Protection</a>
