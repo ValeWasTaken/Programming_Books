@@ -38,7 +38,7 @@ If you enjoy the book please buy a copy and support the author!
   - Chapter 10: Debugging
     - Practice Problems
       - Debugging Coin Toss
-  - [**In-Progress**] Chapter 11: Web Scraping
+  - [**On-Hold**] Chapter 11: Web Scraping
     - Practice Problems
       - Command Line Emailer
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_011/Practice_Problems/Image_Site_Downloader.py">Image Site Downloader</a>
