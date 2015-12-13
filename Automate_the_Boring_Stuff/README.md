@@ -151,6 +151,29 @@ Write a program that opens all .txt files in a folder and searches for any line 
 <BR>
 
 
+<strong>Chapter 9 (1 of 3): <a href="">Selective Copy</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 9 (2 of 3): <a href="">Deleting Unneeded Files</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 9 (3 of 3): <a href="">Filling in the Gaps</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 10 (1 of 1): <a href="">Debugging Coin Toss</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
 <strong>Chapter 11 (1 of 4): <a href="">Command Line Emailer</a></strong>
 <BR>
 Write a program that takes an email address and string of text on the command line and then, using Selenium, logs into your email account and sends an email of the string to the provided address.
@@ -176,7 +199,128 @@ Write a program that, given the URL of a web page, will attempt to download ever
 <BR>
 
 
+<strong>Chapter 12 (1 of 5): <a href="">Multiplication Table Maker</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 12 (2 of 5): <a href="">Blank Row Inserter</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 12 (3 of 5): <a href="">
+Spreadsheet Cell Inverter</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 12 (4 of 5): <a href="">Text Files to Spreadsheet</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 12 (5 of 5): <a href="">Spreadsheet to Text Files</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 13 (1 of 3): <a href="">PDF Paranoia</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 13 (2 of 3): <a href="">Custom Invitations as Word Documents</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 13 (3 of 3): <a href="">Brute-Force PDF Password Breaker</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 14 (1 of 1): <a href="">Excel-to-CSV Converter</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 15 (1 of 2): <a href="">Prettified Stopwatch</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 15 (2 of 2): <a href="">Scheduled Web Comic Downloader</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 16 (1 of 4): <a href="">Random Chore Assignment Emailer</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 16 (2 of 4): <a href="">Umbrella Reminder</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 16 (3 of 4): <a href="">Auto Unsubscriber</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 16 (4 of 4): <a href="">Controlling Your Computer Through Email</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 17 (1 of 3): <a href="">Extending and Fixing the Chapter Project Programs</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 17 (2 of 3): <a href="">Identifying Photo Folders on the Hard Drive</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 17 (3 of 3): <a href="">Custom Seating Cards</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
 <strong>Chapter 18 (1 of 3): [Looking Busy](https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_018/Practice_Problems/Looking_Busy.py) </strong>
 <BR>
 Write a script to nudge your mouse cursor slightly every ten seconds to prevent the computer from going idle.
+<BR>
+
+
+<strong>Chapter 18 (2 of 3): <a href="">Instant Messenger Bot</a></strong>
+<BR>
+PLACEHOLDER TEXT
+<BR>
+
+
+<strong>Chapter 18 (3 of 3): <a href="">Game-Playing Bot Tutorial</a></strong>
+<BR>
+PLACEHOLDER TEXT
 <BR>
