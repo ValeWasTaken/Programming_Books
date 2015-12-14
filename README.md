@@ -7,13 +7,13 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 
 
 <h3>Table of contents:</h3>
-- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Automate_the_Boring_Stuff">"Automate the Boring Stuff" (1st edition)</a> ~ by Al Sweigart (<strong>In progress</strong>)
-- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Cracking_the_Coding_Interview">"Cracking the Coding Interview" (5th Edition)</a> ~ by Gayle Laakmann McDowell (<strong>On Hold</strong>)
-- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Head_First_Java">"Head First Java" (2nd Edition)</a> ~ by Kathy Sierra & Bert Bates (<strong>On hold</strong>)
-- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Invent_Your_Own_Computer_Games_with_Python">"Invent Your Own Computer Games with Python" (2nd edition)</a> ~ by Al Sweigart (<strong>On hold</strong>)
-- <a href="">"Mining the Social Web" (2nd edition)</a> ~ by Matthew A. Russell (<strong>On Hold</strong>)
-- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/The_C_Programming_Language">"The C Programming Language" (1st edition)</a> ~ by Brian W. Kernighan & Dennis M.Ritchie (<strong>On hold</strong>)
-- <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Idiomatic_Python2.7_References.py">"Writing Idiomatic Python 2.7.8"</a> ~ by Jeff Knupp (<strong>Finished</strong>)
+- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Automate_the_Boring_Stuff">Automate the Boring Stuff (1st edition)</a> ~ by Al Sweigart (<strong>In progress</strong>)
+- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Cracking_the_Coding_Interview">Cracking the Coding Interview (5th Edition)</a> ~ by Gayle Laakmann McDowell (<strong>On Hold</strong>)
+- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Head_First_Java">Head First Java (2nd Edition)</a> ~ by Kathy Sierra & Bert Bates (<strong>On hold</strong>)
+- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Invent_Your_Own_Computer_Games_with_Python">Invent Your Own Computer Games with Python (2nd edition)</a> ~ by Al Sweigart (<strong>On hold</strong>)
+- <a href="">Mining the Social Web (2nd edition)</a> ~ by Matthew A. Russell (<strong>On Hold</strong>)
+- <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/The_C_Programming_Language">The C Programming Language (1st edition)</a> ~ by Brian W. Kernighan & Dennis M.Ritchie (<strong>On hold</strong>)
+- <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Idiomatic_Python2.7_References.py">Writing Idiomatic Python 2.7.8</a> ~ by Jeff Knupp (<strong>Finished</strong>)
   - Note: I am only picking out my favorite points to keep as references.
   - Note: Content is linked in a different repository. (Click hyperlink above to see.)
 <strong><End of table of contents until more programs are uploaded to this repository.></strong>
