@@ -35,9 +35,9 @@ If you enjoy the book please buy a copy and support the author!
       - Selective Copy
       - Deleting Unneeded Files
       - Filling in the Gaps
-  - Chapter 10: Debugging
+  - [**Complete**] Chapter 10: Debugging
     - Practice Problems
-      - Debugging Coin Toss
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_010/Practice_Problems/Debugging_Coin_Toss.py">Debugging Coin Toss</a>
   - [**On-Hold**] Chapter 11: Web Scraping
     - Practice Problems
       - Command Line Emailer
@@ -171,7 +171,8 @@ PLACEHOLDER TEXT
 
 <strong>Chapter 10 (1 of 1): <a href="">Debugging Coin Toss</a></strong>
 <BR>
-PLACEHOLDER TEXT
+Run the simple program (found at the bottom of <a href="https://automatetheboringstuff.com/chapter10/">this</a> page)
+and fix any bugs found.
 <BR>
 
 <strong>Chapter 11 (1 of 4): <a href="">Command Line Emailer</a></strong>
