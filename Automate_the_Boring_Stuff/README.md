@@ -145,7 +145,7 @@ appears in the text file.
 <BR>
 
 
-<strong>Chapter 8 (3 of 3): <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/Mab_Libs.py">Regex Search</a></strong>
+<strong>Chapter 8 (3 of 3): <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/">Regex Search</a></strong>
 <BR>
 Write a program that opens all .txt files in a folder and searches for any line that matches a user-supplied regular expression. The results should be printed to the screen.
 <BR>
