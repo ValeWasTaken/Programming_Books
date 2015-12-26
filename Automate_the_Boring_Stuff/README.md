@@ -1,5 +1,7 @@
 Automate the Boring Stuff by Al Sweigart is available to read for free online at http://automatetheboringstuff.com/
-If you enjoy the book please buy a copy and support the author!
+If you enjoy the book please buy a copy and support the author! 
+
+Note: All the solutions I programmed in this repository were made using Python 3.4
 
 <h2>Table of contents:</h2>
 - Part 1: The Basics of Python Programming
