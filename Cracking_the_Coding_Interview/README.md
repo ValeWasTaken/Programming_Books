@@ -1,7 +1,3 @@
-I will not be adding every exercise solution in order. 
-Some solutions are too difficult for me at the moment and others I'm not interested enough to program yet.
-
-
 <h2>Table of contents:</h2>
 - Interview Questions
   - Data Structures 
