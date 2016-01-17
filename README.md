@@ -19,4 +19,4 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 <strong><End of table of contents until more programs are uploaded to this repository.></strong>
 
 
-Please note: These repositories may not contain all of the exercises, examples, and so forth in the book. I skip some that are too easy / boring sometimes, other times I may skip one because it's too difficult or any other reason. Whatever I do post, however, I fully understand. So if you have any questions please feel free to contact me!
+Please note: These repositories may not contain all of the exercises in each book. Whatever I do post, however, I fully understand. So if you have any questions please feel free to contact me!
