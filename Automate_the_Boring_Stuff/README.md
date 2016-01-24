@@ -27,7 +27,7 @@ Note: All the solutions I programmed in this repository were made using Python 3
     - Practice Problems
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Strong_Password_Detection.py">Strong Password Protection</a>
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_007/Practice_Problems/Regex_Version_of_Strip().py">Regex Version of strip()</a>
-  - [**In-Progress**] Chapter 8: Reading and Writing Files
+  - [**On-Hold**] Chapter 8: Reading and Writing Files
     - Practice Problems
       - Extending the Multiclipboard
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/Mab_Libs.py">Mad Libs</a>
