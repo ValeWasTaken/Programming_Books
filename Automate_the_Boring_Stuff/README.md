@@ -155,19 +155,21 @@ Write a program that opens all .txt files in a folder and searches for any line 
 
 <strong>Chapter 9 (1 of 3): <a href="">Selective Copy</a></strong>
 <BR>
-PLACEHOLDER TEXT
+Write a program that walks through a folder tree and searches for files with a certain file extension (such as .pdf or .jpg). Copy these files from whatever location they are in to a new folder.
 <BR>
 
 
 <strong>Chapter 9 (2 of 3): <a href="">Deleting Unneeded Files</a></strong>
 <BR>
-PLACEHOLDER TEXT
+Write a program that walks through a folder tree and searches for exceptionally large files or folders—say, ones that have a file size of more than 100MB. (Remember, to get a file’s size, you can use os.path.getsize() from the os module.) Print these files with their absolute path to the screen.
 <BR>
 
 
 <strong>Chapter 9 (3 of 3): <a href="">Filling in the Gaps</a></strong>
 <BR>
-PLACEHOLDER TEXT
+Write a program that finds all files with a given prefix, such as spam001.txt, spam002.txt, and so on, in a single folder and locates any gaps in the numbering (such as if there is a spam001.txt and spam003.txt but no spam002.txt). Have the program rename all the later files to close this gap.
+
+As an added challenge, write another program that can insert gaps into numbered files so that a new file can be added.
 <BR>
 
 
