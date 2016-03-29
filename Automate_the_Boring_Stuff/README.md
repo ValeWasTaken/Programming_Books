@@ -32,9 +32,9 @@ Note: All the solutions I programmed in this repository were made using Python 3
       - Extending the Multiclipboard
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_008/Practice_Problems/Mab_Libs.py">Mad Libs</a>
       - Regex Search
-  - Chapter 9: Organizing Files
+  - [**In-Progress**] Chapter 9: Organizing Files
     - Practice Problems
-      - Selective Copy
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_009/Practice_Problems/Selective_Copy.py">Selective Copy</a>
       - Deleting Unneeded Files
       - Filling in the Gaps
   - [**Complete**] Chapter 10: Debugging
