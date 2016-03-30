@@ -35,7 +35,7 @@ Note: All the solutions I programmed in this repository were made using Python 3
   - [**In-Progress**] Chapter 9: Organizing Files
     - Practice Problems
       - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_009/Practice_Problems/Selective_Copy.py">Selective Copy</a>
-      - Deleting Unneeded Files
+      - <a href="https://github.com/ArnoldM904/Programming_Books/blob/master/Automate_the_Boring_Stuff/Chapter_009/Practice_Problems/Deleting_Unneeded_Files.py">Deleting Unneeded Files</a>
       - Filling in the Gaps
   - [**Complete**] Chapter 10: Debugging
     - Practice Problems
