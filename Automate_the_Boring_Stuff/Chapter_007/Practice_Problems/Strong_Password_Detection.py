@@ -1,7 +1,9 @@
 # Chapter 7: Strong Password Detection - Python 3.4
 import re
 
-def is_password_strong():
+password = input('Enter a password to test: ')
+
+def is_password_strong(password):
     """
     Returns a boolean indicating if the password is strong.
 
@@ -9,7 +11,6 @@ def is_password_strong():
     contain at least one uppercase letter,
     lowercase letter and digit.
     """
-    password = input('Enter a password to test: ')
     
     length_regex = re.compile(r'.{8,}')
     uppercase_regex = re.compile(r'[A-Z]')
@@ -21,4 +22,6 @@ def is_password_strong():
         lowercase_regex.search(password) is not None)
     digit = digit_regex.search(password) is not None
 
-    return(length and case and digit)
+    print(length and case and digit)
+    
+is_password_stong(password)
