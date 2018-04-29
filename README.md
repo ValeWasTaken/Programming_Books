@@ -7,6 +7,7 @@ Please feel free to ask me any questions. If you see a book on here that looks i
 
 
 <h3>Table of contents:</h3>
+
 - <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Automate_the_Boring_Stuff">Automate the Boring Stuff (1st edition)</a> ~ by Al Sweigart (<strong>Work-In-Progress</strong>)
 - <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Cracking_the_Coding_Interview">Cracking the Coding Interview (5th Edition)</a> ~ by Gayle Laakmann McDowell (<strong>On Hold</strong>)
 - <a href="https://github.com/ArnoldM904/Programming_Books/tree/master/Head_First_Java">Head First Java (2nd Edition)</a> ~ by Kathy Sierra & Bert Bates (<strong>On Hold</strong>)
