@@ -4,6 +4,7 @@ If you enjoy the book please buy a copy and support the author!
 Note: All the solutions I programmed in this repository were made using Python 3.4
 
 <h2>Table of contents:</h2>
+
 - Part 1: The Basics of Python Programming
   - [**Complete**] Chapter 0: Introduction 
   - [**Complete**] Chapter 1: Python Basics
